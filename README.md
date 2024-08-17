@@ -1,5 +1,6 @@
 # Smart-Homie
 This project is the culmination of various projects. It is meant to represent a simplified version of microservices.
+Smart Homie is a smart home controller that allows the user to add and store smart devices and controls thsoe devices as well. SMart Homie will also be able to display data and show minor predcition on useage.
 These projects include
 ## Projects
 1. https://github.com/jeffCabrera0321/Smart-Homie_Data-Processing
